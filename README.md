@@ -3,10 +3,21 @@ Tienda de canciones básica en Java con JPA y servicios REST que se diseño para
 
 ## Tabla de Contenidos ##
 - [Requerimientos](#Requerimientos)
+- [Funcionalidad](#Funcionalidad)
 - [Base de Datos](#Base-de-Datos)
 - [Colaboradores](#Colaboradores)
 
 ## Requerimientos ##
+- Eclipselink
+- MySQL Connector
+
+## Funcionalidad ##
+En terminos generales la aplicación permite realizar lo siguiente:
+- Crear Canciones, Albumes y Artistas
+- Crear Usuarios
+- Realizar compra de canciones
+- Realizar compra de almbumes
+- Tiene dos servicios expuestos para ser consumidos, los cuales permiten agregar canciones la base de datos o devolver la lista de canciones mas compradas.
 
 ## Base de Datos ##
 La base de datos diseñada es batante sencilla y se divide en tres componentes principales:
@@ -19,3 +30,4 @@ La base de datos diseñada es batante sencilla y se divide en tres componentes p
 ## Colaboradores ##
 - [Steven Puerto](https://github.com/stevenn2012)
 - [Felix Moreno](https://github.com/Felixmorenot17)
+- [Juliana Diaz](https://github.com/julidr)
