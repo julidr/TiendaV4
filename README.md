@@ -14,7 +14,7 @@ La base de datos diseñada es batante sencilla y se divide en tres componentes p
 - Carrito de Compra: Solo contiene una tabla que permite relacioanar las compras del cliente con la canción.
 - Cliente: Tabla que representa al que realiza las compras.
 
-[![DiagramaEntidadRelacion](TiendaV4/BaseDeDatos/DiagramaEntidadRelación.png)]
+![DiagramaEntidadRelacion](BaseDeDatos/DiagramaEntidadRelacion.png)
 
 ## Colaboradores ##
 - [Steven Puerto](https://github.com/stevenn2012)
